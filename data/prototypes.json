@@ -7893,6 +7893,7 @@
         "in": true,
         "out": false,
         "optional": false
+
       },
       {
         "name": "ProcessObjectAttributes",
@@ -7924,7 +7925,7 @@
       },
       {
         "name": "ProcessParameters",
-        "type": "PVOID",
+        "type": "PRTL_USER_PROCESS_PARAMETERS",
         "in": true,
         "out": false,
         "optional": true
